@@ -1,1 +1,1 @@
-# My_shell_portable_profile
+# bash profiles and scripts
